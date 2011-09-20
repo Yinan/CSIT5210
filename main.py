@@ -11,8 +11,8 @@ import os
 
 
 def main():
-  print "hello world" , sys.argv[1]
+    print "hi" , sys.argv[1]
 
 
 if __name__ == '__main__':
-  main()
+    main()
